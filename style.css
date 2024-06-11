@@ -1,0 +1,14 @@
+.padre{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    background-color: aquamarine;
+}
+
+.hija{
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+
+}
